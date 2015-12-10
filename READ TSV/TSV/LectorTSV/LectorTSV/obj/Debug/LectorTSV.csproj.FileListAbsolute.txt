@@ -1,0 +1,12 @@
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\LectorTSV.exe.config
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\LectorTSV.exe
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\LectorTSV.pdb
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.csprojResolveAssemblyReference.cache
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.Form1.resources
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.Properties.Resources.resources
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.csproj.GenerateResource.Cache
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.exe
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\obj\Debug\LectorTSV.pdb
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\LibreriaTSV.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\MySql.Data.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LectorTSV\bin\Debug\LibreriaTSV.pdb

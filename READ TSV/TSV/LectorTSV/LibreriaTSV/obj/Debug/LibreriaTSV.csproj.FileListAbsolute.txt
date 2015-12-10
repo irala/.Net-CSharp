@@ -1,0 +1,7 @@
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\bin\Debug\LibreriaTSV.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\bin\Debug\LibreriaTSV.pdb
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\obj\Debug\LibreriaTSV.csprojResolveAssemblyReference.cache
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\obj\Debug\LibreriaTSV.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\obj\Debug\LibreriaTSV.pdb
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\bin\Debug\LibreriaTSV.dll.config
+c:\users\nuria\documents\visual studio 2015\Projects\LectorTSV\LibreriaTSV\bin\Debug\MySql.Data.DLL
