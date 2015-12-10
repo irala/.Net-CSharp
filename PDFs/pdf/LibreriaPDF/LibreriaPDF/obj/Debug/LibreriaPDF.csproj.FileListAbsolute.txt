@@ -1,0 +1,8 @@
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\bin\Debug\LibreriaPDF.dll.config
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\bin\Debug\LibreriaPDF.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\bin\Debug\LibreriaPDF.pdb
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\bin\Debug\MySql.Data.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\obj\Debug\LibreriaPDF.dll
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\obj\Debug\LibreriaPDF.pdb
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\LibreriaPDF\bin\Debug\itextsharp.dll
+C:\Users\Nuria\documents\visual studio 2015\Projects\LibreriaPDF\LibreriaPDF\obj\Debug\LibreriaPDF.csprojResolveAssemblyReference.cache

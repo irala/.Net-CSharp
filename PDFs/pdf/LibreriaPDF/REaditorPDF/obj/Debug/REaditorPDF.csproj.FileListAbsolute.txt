@@ -1,0 +1,17 @@
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.csprojResolveAssemblyReference.cache
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.Form1.resources
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.ListaPDF.resources
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.Properties.Resources.resources
+c:\users\nuria\documents\visual studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.csproj.GenerateResource.Cache
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\REaditorPDF.exe.config
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\REaditorPDF.exe
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\REaditorPDF.pdb
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\LibreriaPDF.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\MySql.Data.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\LibreriaPDF.pdb
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.VerPDF.resources
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.exe
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.pdb
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\bin\Debug\itextsharp.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\LibreriaPDF\REaditorPDF\obj\Debug\REaditorPDF.CrearPDF.resources
